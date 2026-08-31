@@ -1,0 +1,5 @@
+name: copper-lp
+channels:
+  - conda-forge
+dependencies:
+  - sage=10.8
