@@ -4,14 +4,14 @@
 
 Run from the repository root with
 
-    sage -python example.py
+    sage -python examples/example.py
 """
 
 import time
 
 from sage.all import PolynomialRing, QQ
 
-from algorithm1 import main
+from copperlp import main
 
 
 # ---------------------------------------------------------------------------
